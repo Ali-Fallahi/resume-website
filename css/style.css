@@ -304,8 +304,8 @@ header .navbar ul li a:hover {
     position: absolute;
     top: 0;
     left: 0;
-    height: 20rem;
-    width: 26rem;
+    height: 100%;
+    width: 100%;
     background-color: rgba(2, 2, 2, 0.719);
     display: flex;
     justify-content: center;
